@@ -3,6 +3,7 @@ This is about the benchmark, source code, solution certificates of our double-st
 
 ------------------------------------------------------------------------
 Benchmark:
+
 Totally 256 instances in 11 diffirent sets, including 9 stardard benchmark instances and 2 instances of real applications.
 
 - The first ten sets (Normal-Instance: 236 instances): are employed by Lozano et al. [1].
@@ -20,6 +21,7 @@ The manuscript is under reivew. The source code of the proposed algorithm will b
 
 ------------------------------------------------------------------------
 Solution certicates:
+
 The solution for each instance labeled node from 0 not 1.
 
 
