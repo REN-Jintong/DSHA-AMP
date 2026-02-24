@@ -4,9 +4,9 @@ This is about the benchmark, source code, solution certificates of our double-st
 ------------------------------------------------------------------------
 Benchmark:
 
-Totally 256 instances in 11 diffirent sets, including 9 stardard benchmark instances and 2 instances of real applications.
+Totally 256 instances in 11 diffirent sets, including 9 stardard benchmark instances and 2 sets of instances from real applications.
 
-- The first ten sets (Normal-Instance: 236 instances): are employed by Lozano et al. [1].
+- The first ten sets (Normal-Instance: 236 instances) are employed by Lozano et al. [1].
   They shared their results and original instances in https://grafo.etsii.urjc.es/optsicom/abp.html
   Here, we corrected a instance named 'mesh12_12' in this copied and removed the repeated instances (mesh30_34 and mesh34_30).
   
