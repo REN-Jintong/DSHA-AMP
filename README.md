@@ -24,7 +24,7 @@ Solution certicates:
 
 The solution for each instance labeled node from 0 not 1.
 
-
+------------------------------------------------------------------------
 [1] Lozano M, Duarte A, Gortázar F, et al. Variable neighborhood search with ejection chains for the antibandwidth problem[J]. Journal of Heuristics, 2012, 18(6): 919-938.
 
 [2] Scott J, Hu Y. Level-based heuristics and hill climbing for the antibandwidth maximization problem[J]. Numerical Linear Algebra with Applications, 2014, 21(1): 51-67.
