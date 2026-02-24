@@ -12,7 +12,7 @@ Totally 256 instances in 11 diffirent sets, including 9 stardard benchmark insta
   
 - The set (Sparse-Matrix: 20 instances) is introduced by Scott and Hu [2]
   The original source is published in https://sparse.tamu.edu/
-  We made a conversion of the raw materia to have the same interface with the instances above.
+  We made a conversion of the raw matieria to have the same interface with the instances above (removing unused information, the repeated edges as well as the self-loop).
   Notes that, 24 instances introduced by Scott and Hu [2], six (curtis54, can_445, 662_bus, nos6, dwt_234, and sherman4) also appear in the Harwell-Boeing set. Four of these (curtis54, can_445, 662_bus, and nos6) are identical in both collections, while the remaining two (dwt_234 and sherman4) are entirely different instances. Therefore, the 'Sparse-Matrix' category effectively contains 20 unique new instances.
 
 ------------------------------------------------------------------------
