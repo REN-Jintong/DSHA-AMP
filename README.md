@@ -7,11 +7,11 @@ Totally 256 instances in 11 diffirent sets, including 9 stardard benchmark insta
 
 - The first ten sets (Normal-Instance: 236 instances): are employed by Lozano et al. [1].
   They shared their results and original instances in https://grafo.etsii.urjc.es/optsicom/abp.html
-  Here, we corrected a instance named 'mesh12_12' in this copied and remove the repeated instances (mesh30_34 and mesh34_30).
+  Here, we corrected a instance named 'mesh12_12' in this copied and removed the repeated instances (mesh30_34 and mesh34_30).
   
 - The set (Sparse-Matrix: 20 instances) is introduced by Scott and Hu [2]
   The original source is published in https://sparse.tamu.edu/
-  We make a conversion of the raw materia to have the same interface with the instances above.
+  We made a conversion of the raw materia to have the same interface with the instances above.
   Notes that, 24 instances introduced by Scott and Hu [2], six (curtis54, can_445, 662_bus, nos6, dwt_234, and sherman4) also appear in the Harwell-Boeing set. Four of these (curtis54, can_445, 662_bus, and nos6) are identical in both collections, while the remaining two (dwt_234 and sherman4) are entirely different instances. Therefore, the 'Sparse-Matrix' category effectively contains 20 unique new instances.
 
 ------------------------------------------------------------------------
