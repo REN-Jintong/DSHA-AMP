@@ -18,7 +18,8 @@ Totally 256 instances in 11 diffirent sets, including 9 stardard benchmark insta
 ------------------------------------------------------------------------
 Source Code:
 
-The manuscript is under reivew. The source code of the proposed algorithm will be uploaded upon the accptance of the paper.
+This work has been accepted for publication in Computers & Operations Research. The source code is currently being prepared and will be released around the beginning of September. 
+
 
 ------------------------------------------------------------------------
 Solution certicates: See "Solution.zip"
